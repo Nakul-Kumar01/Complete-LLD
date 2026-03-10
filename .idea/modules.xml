@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture 06(SOLID part02)/Java Code/Java Code.iml" filepath="$PROJECT_DIR$/Lecture 06(SOLID part02)/Java Code/Java Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD Complete.iml" filepath="$PROJECT_DIR$/.idea/LLD Complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 06(SOLID part02)/Java Code/LSP-Rules/LSP-Rules.iml" filepath="$PROJECT_DIR$/Lecture 06(SOLID part02)/Java Code/LSP-Rules/LSP-Rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 02_abstraction_encapsulation/Lecture 02_abstraction_encapsulation.iml" filepath="$PROJECT_DIR$/Lecture 02_abstraction_encapsulation/Lecture 02_abstraction_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 03_Inheritance and Polymorphism/Lecture 03_Inheritance and Polymorphism.iml" filepath="$PROJECT_DIR$/Lecture 03_Inheritance and Polymorphism/Lecture 03_Inheritance and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 05(SOLID)/Lecture 05(SOLID).iml" filepath="$PROJECT_DIR$/Lecture 05(SOLID)/Lecture 05(SOLID).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 07(build google Docs)/Lecture 07(build google Docs).iml" filepath="$PROJECT_DIR$/Lecture 07(build google Docs)/Lecture 07(build google Docs).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 08( Strategy design pattern)/Lecture 08( Strategy design pattern).iml" filepath="$PROJECT_DIR$/Lecture 08( Strategy design pattern)/Lecture 08( Strategy design pattern).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 09( Factory DP)/Lecture 09( Factory DP).iml" filepath="$PROJECT_DIR$/Lecture 09( Factory DP)/Lecture 09( Factory DP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 10( Singleton DP)/Lecture 10( Singleton DP).iml" filepath="$PROJECT_DIR$/Lecture 10( Singleton DP)/Lecture 10( Singleton DP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 11(Zomato Food Dilivery)/Lecture 11(Zomato Food Dilivery).iml" filepath="$PROJECT_DIR$/Lecture 11(Zomato Food Dilivery)/Lecture 11(Zomato Food Dilivery).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 12 (Observer Design Pattern)/Lecture 12 (Observer Design Pattern).iml" filepath="$PROJECT_DIR$/Lecture 12 (Observer Design Pattern)/Lecture 12 (Observer Design Pattern).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 13 (Decorator Design Pattern)/Lecture 13 (Decorator Design Pattern).iml" filepath="$PROJECT_DIR$/Lecture 13 (Decorator Design Pattern)/Lecture 13 (Decorator Design Pattern).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 14 (Notification service)/Lecture 14 (Notification service).iml" filepath="$PROJECT_DIR$/Lecture 14 (Notification service)/Lecture 14 (Notification service).iml" />
     </modules>
   </component>
 </project>
